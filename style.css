@@ -1,34 +1,24 @@
-body{
-    background-color: #2a5d5a;
+.body{
+    background-color: rgb(33, 85, 33);
+    color: white;
 }
-.mmn{
-    color:white ;
-    text-align: center;
-    background-color: #311313;
-    width: 636px;
-    height: 110px;
-    margin: 0 auto;
-    font-size:64px;
-    padding-top:44px ;
-}
-.tre{
-    border: solid red 10px;
+.text{
+    color: white;
     background-color: black;
-    width:1000px ;
-    height:638px;
-    margin:0 auto ;
-
-}
-.ppo{
-    background-color: #1FE8B7;
-    width: 
-    896px;
-    height: 
-    259px;
+    border: 0px auto;
+    border-width: 50px;
     text-align: center;
-    font-size: x-large;
-    margin: auto;
-    padding-top:0px ;
-    
- 
+    border-bottom: 50px;
+}
+.text2{
+    border-color: red;
+    border: 10px solid black;
+}
+.text3{
+    color: black;
+    background-color: aquamarine;
+}
+.text4{
+    background-color: 10px black;
+    border: 5px solid red;
 }
